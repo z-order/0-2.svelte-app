@@ -27,13 +27,8 @@ serve -n -s -l 3000 dist --debug
 ```
 
 <br>
-<br>
 
-# And the origianl README.md file is as follows:
-
-<br>
-
-# Svelte + TS + Vite
+# And the original README.md file from `npm init vite` is as follows: <br><br> Svelte + TS + Vite
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
