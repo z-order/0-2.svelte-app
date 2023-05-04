@@ -19,11 +19,23 @@ Done. Now run:
 
 # You can use start-app.sh to start the app in a deployed server system.
 
-```
+```sh
 #/bin/sh
 
-# In a deploy server
+# In a deploy server, and serve command can be installed using "npm install -g serve"
+
+serve -n -s -l 3000 dist
+```
+
+or for debug mode logging
+
+```sh
+#/bin/sh
+
+# In a deploy server, and serve command can be installed using "npm install -g serve"
+
 serve -n -s -l 3000 dist --debug
+
 ```
 
 <br>
