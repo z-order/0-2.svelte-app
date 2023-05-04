@@ -26,6 +26,8 @@ Done. Now run:
 serve -n -s -l 3000 dist --debug
 ```
 
+<br>
+<br>
 
 # Svelte + TS + Vite
 
